@@ -1,0 +1,8 @@
+1. multiple entries for the same study and the same year imply that different estimates were available for different geographical/product markets
+2. 'study' is the name of the merger retrospective study
+3. 'es' is the merger price effect estimate from the given study
+4. 'se' is the standard error of this estimate
+5. 'yearsafter' implies the number of years after the merger
+6. 'impactfactor' and 'citationindex' refer to the journal quality
+7. 'Dynamic' refers to whether a post-merger average effect (0) or annual estimates were provided (1)
+8. 'Firm 1' and 'Firm 2' are the two merging parties
